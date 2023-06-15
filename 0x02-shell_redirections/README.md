@@ -1,0 +1,1 @@
+echo "Hello, World" this script output Hello World on the standard output'
